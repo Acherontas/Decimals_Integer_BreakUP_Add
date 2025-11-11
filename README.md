@@ -4,8 +4,6 @@ Integers and Decimals breakup and restore for addition
 
 //
 
-
-
 acherontas@rpifive:~/codeblocks/stepping_add_arm64/bin/Debug $ ./stepping_add_arm64 1225 5672.79 12
 enter first number then enter second number then enter a precision
 decimal is zero 
