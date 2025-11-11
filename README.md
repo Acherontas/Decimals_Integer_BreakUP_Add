@@ -1,6 +1,8 @@
 # Decimals_Integer_BreakUP_Add
 Integers and Decimals breakup and restore for addition
 
+and a Division by 2 
+with a set of number to achieve the same result set 
 
 //
 
